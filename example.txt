@@ -1,0 +1,36 @@
+📌 Claim: Artificial sweeteners cause cancer
+✅ Normalized Claim: "Artificial sweeteners cause cancer"
+🔍 Searching web sources...
+🌐 6 sources found. Scraping...
+📚 Extracting facts and arguments...
+🧠 Synthesizing final report...
+
+📋 FactSynth Report
+======================================================================
+Claim: Artificial sweeteners cause cancer
+
+🟩 Supporting Evidence:
+- Artificial sweeteners and cancer risk: What the research really shows (health.harvard.edu) [credibility: 9.1]
+- WHO flags possible cancer risk from aspartame sweetener (reuters.com) [credibility: 8.8]
+
+🟥 Opposing Evidence:
+- FDA says aspartame is safe in moderation (fda.gov) [credibility: 9.2]
+- Cancer mythbusters: The truth about sugar substitutes (cancer.org) [credibility: 9.0]
+
+⚖️ Summary:
+Evidence is balanced or inconclusive.
+======================================================================
+
+🗣️ Running AI debate...
+
+🔷 PRO (AI Agent 1):
+ - According to Artificial sweeteners and cancer risk: What the research really shows, it is clear that artificial sweeteners cause cancer.
+ - According to WHO flags possible cancer risk from aspartame sweetener, it is clear that artificial sweeteners cause cancer.
+
+🔶 CON (AI Agent 2):
+ - However, FDA says aspartame is safe in moderation argues the opposite, suggesting artificial sweeteners cause cancer is misleading or false.
+ - However, Cancer mythbusters: The truth about sugar substitutes argues the opposite, suggesting artificial sweeteners cause cancer is misleading or false.
+
+🤖 Verdict Exchange:
+PRO: Seems like the evidence is mixed.
+CON: Agreed. This may require deeper investigation.
